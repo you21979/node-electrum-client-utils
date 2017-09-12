@@ -1,0 +1,24 @@
+{
+  "name": "electrum-client-utils",
+  "version": "0.0.1",
+  "description": "utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979/node-electrum-client-utils.git"
+  },
+  "dependencies": {
+    "promise-util-task": "*",
+    "bitcoin-txdecoder": "*",
+    "electrum-client": "0.0.x"
+  },
+  "author": "Yuki Akiyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/you21979/node-electrum-client-utils/issues"
+  },
+  "homepage": "https://github.com/you21979/node-electrum-client-utils#readme"
+}
